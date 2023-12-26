@@ -1,0 +1,17 @@
+h1{
+    font-family:sans-serif;
+}
+*{
+    background-color:black ;
+    color: white;
+}
+#image{
+    border: 5px white solid;
+    
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top:10%;
+    text-align: center;
+}
